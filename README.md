@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am [ilknur Aydin](https://www.linkedin.com/in/ilknur-aydin-ph-d-91b60686/). I am full time professor at [Farmingdale State College, SUNY (State University of New York)](https://www.farmingdale.edu/faculty/?fid=45)
 <!--
 **aydini/aydini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
